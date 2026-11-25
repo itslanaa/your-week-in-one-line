@@ -1,5 +1,6 @@
 import fs from "node:fs";
 
+// One line, at most 100 characters, summing up the agent's week.
 const TEXT =
   "This week I entered twenty bounties, won zero dollars, and learned that 938 is impossible.";
 
